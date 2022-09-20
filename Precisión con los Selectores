@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css.Css">
+    <title>Ganando precisión con los selectores en CSS</title>
+</head>
+<body>
+    <h1 id="titulo" class="encabezado">Lista de Compra</h1>
+    <ul>
+        <li id="elemento-1">zapatos</li>
+        <li id="elemento-2">carteras</li>
+        <li id="elemento-3">remeras</li>
+        <li id="elemento-4">buzos</li>
+        <li id="elemento-5">camperas</li>
+    </ul>
+    <ol>
+        <li id="elemento-1">leche</li>
+        <li id="elemento-2">crema</li>
+        <li id="elemento-3">vainilla</li>
+        <li id="elemento-4">caserola</li>
+        <li id="elemento-5">crema chantilli</li>
+    </ol>
+    
+    
+    
+</body>
+</html>
